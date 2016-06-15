@@ -1,4 +1,6 @@
 "*":
+  "activate-power-mode":
+    autoToggle: false
   core:
     audioBeep: false
     disabledPackages: [
@@ -13,6 +15,8 @@
     showIndentGuide: true
   "exception-reporting":
     userId: "4daf4651-722d-70ae-1e2d-6456a9419b88"
+  "remote-sync":
+    autoHideLogPanel: true
   "seti-syntax":
     themeColor: "Green"
   "seti-ui":
