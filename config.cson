@@ -1,0 +1,23 @@
+"*":
+  core:
+    audioBeep: false
+    disabledPackages: [
+      "file-icons"
+    ]
+    themes: [
+      "seti-ui"
+      "seti-syntax"
+    ]
+  editor:
+    fontSize: 15
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "4daf4651-722d-70ae-1e2d-6456a9419b88"
+  "seti-syntax":
+    themeColor: "Green"
+  "seti-ui":
+    compactView: true
+    font: "Default Atom Font"
+    themeColor: "Green"
+  welcome:
+    showOnStartup: false
